@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Form</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="image/image8-2.jpg">
+</head>
+
+<body>
+    <div class="box">
+        <div class="logo">
+            <img src="image/download.png" alt="">
+        </div>
+        <h2>Sign In</h2>
+        <p>Use your google account</p>
+        <form action="#">
+            <div class="input-box">
+                <input type="text" name="text" placeholder="Username" required
+                    onkeyup="this.setAttribute('value', this.value);">
+                <label for="">Username</label>
+            </div>
+            <div class="input-box">
+                <input type="email" name="email" placeholder="Password" required
+                    onkeyup="this.setAttribute('value', this.value);">
+                <label for="">Password</label>
+
+            </div>
+            <input type="submit" value="Sign In" name="sing in">
+        </form>
+    </div>
+</body>
+
+</html>
