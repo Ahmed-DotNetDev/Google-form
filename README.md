@@ -2,11 +2,11 @@
    Google form using HTML and CSS <br><br>
 <a href="https://ahmed-dotnetdev.github.io/Google-form/"><strong>Live Demo</strong></a>
 
-# Technologies
+# Technologies 👨🏻‍💻⚙
 <p><strong>HTML</strong></p>
 <p><strong>CSS</strong></p>
 
-# Clone Repo
+# Clone Repo 📥
 
     https://github.com/Ahmed-DotNetDev/Google-form.git
 
